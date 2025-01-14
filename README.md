@@ -4,7 +4,7 @@
 Este projeto é um redesign da landing page do Banco Neon. O objetivo principal é aprimorar minhas habilidades de UX/UI enquanto crio uma interface que não apenas seja visualmente atraente, mas também funcional e intuitiva para os usuários. A landing page foi desenvolvida para refletir a identidade moderna e inovadora do Banco Neon.
 
 ## Vídeo da Página Funcionando
-[link para o vídeo da página funcionando](#).
+[link para o vídeo da página funcionando](https://youtu.be/0BVn4Z-PYOY?si=7bftqt9LsFCrRFnu).
 
 ## Design no Figma
 [link para o Design do Figma](https://www.figma.com/design/horfqz0LNqMMfIYXVhqwoX/banco-neon%3Dlp-(Community)?node-id=0-1&m=dev&t=eyQOWEOQO58JsRCY-1).
