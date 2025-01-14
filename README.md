@@ -40,11 +40,11 @@ O objetivo deste projeto é desenvolver minhas habilidades com UX/UI design, apl
 ## Como Rodar a Aplicação Localmente
 1. Clone o repositório:
 ```sh
-   https://github.com/Davi504/lp-neon
+   https://github.com/Davi504/Projeto-lp-neon
 ```
 2. Navegue até o diretório do projeto:
 ```sh
-   cd lp-neon
+   cd Projeto-lp-neon
 ```
 3. Abra o projeto no VSCode.
 4. nstale a extensão "Live Server" se ainda não tiver.
